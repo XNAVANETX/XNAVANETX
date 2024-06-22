@@ -1,5 +1,5 @@
 
-# Hi there, I'm Navanet! 👋
+# Hi there, I'm Navanet! 👨🏼‍💻
 
 I'm a passionate web developer specializing in creating robust, scalable web applications and solutions. With expertise in PHP, MySQL, HTML, CSS, JavaScript, and a focus on WordPress CMS/framework, I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
