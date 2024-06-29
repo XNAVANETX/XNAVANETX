@@ -1,32 +1,52 @@
 
 # Hi there, I'm Navanet! 👨🏼‍💻
+[ My_Portfolio:](https://magenta-cat-4d1.notion.site/NAVANET-SOFTWARE-DEVELOPER-d030c304f19847b78426ae6573ca68a9)
 
-I'm a passionate web developer specializing in creating robust, scalable web applications and solutions. With expertise in PHP, MySQL, HTML, CSS, JavaScript, and a focus on WordPress CMS/framework, I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+I'm a passionate and dedicated Web developer with a strong background in both front-end and back-end technologies. I have a knack for design and a talent for solving problems, aiming to deliver smooth and captivating user experiences.
 
 ## 💼 Skills
 
 - **Languages:** PHP, JavaScript, HTML5, CSS3
 - **Database:** MySQL, SQLite
 - **Frameworks:** WordPress, Bootstrap
-- **Tools & Technologies:** Git, jQuery, RESTful APIs, JSON
+
+
+
+## 🛠️ Tools
+
+- **Development:** Visual Studio Code, Sublime Text, IntelliJ IDEA
+- **Version Control:** Git, GitHub, Bitbucket
+- **Design:** Adobe XD, Sketch, Figma
+- **CMS:** WordPress,Joomla, Drupal, and others.
+- **Database Management:** MySQL Workbench, MongoDB Compass
+- **Deployment & Hosting:** Docker, AWS, Heroku
+- **Testing:** Postman
+
 
 ## 🚀 Projects & Contributions
 
-- **[E-commerce Website with PHP and MySQL](https://suhas86.github.io/react-ecomm-sample/):** Developed a fully functional e-commerce platform using PHP and MySQL, implementing user authentication, product catalog, and cart functionality.
+- **[Todo App](https://react-cool-todo-app.netlify.app/):** A simple and efficient web application designed to help users organize tasks effectively. Features include task creation, prioritization, deadline setting, and task completion tracking, ensuring streamlined task management for enhanced productivity.
+- **[Ecommerce Website](https://quintuslabs.github.io/fashion-cube/):** A dynamic and user-friendly web interface providing an intuitive shopping experience. Features include responsive design for optimal viewing across devices, interactive product catalog with filtering and sorting options, smooth navigation, and a secure checkout process, enhancing user satisfaction and conversion rates.
+- [Snap Shot](https://yog9.github.io/SnapShot/#/SnapScout/mountain):Snap Shot is a gallery created using React,React Hooks, React Router and Context API. The Routes were setup for four default pages and a search page. Also the images were displayed using the Flickr API and axios to fetch data.
+- [Custom Budget Tracker](https://makeshift-breath.surge.sh/):A custom budget system that helps users manage their finances by tracking income and expenses, setting budget goals, and providing insightful financial reports.
   
 
 ![PHP and MySQL GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NoeG9jeDJqNHd6NnFxbWN5ZTl2dm5wOHVlN2JscDE0NG44cHk4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YTzh3zw4mj1XpjjiIb/giphy.gif)
 
-## 🌱 Interests
+## ⚽️ Hobbies
 
-I'm currently focusing on mastering headless WordPress setups and exploring the latest trends in web development. I'm passionate about building efficient and reusable front-end systems.
+- **Reading:** Exploring fiction and non-fiction genres.
+- **Photography:** Capturing moments and landscapes.
+- **Hiking:** Exploring nature trails and mountains.
+- **Cooking:** Trying out new recipes and cuisines.
+- **Gaming:** Enjoying strategy and simulation games.
 
 ## 📫 Get in touch
 
 - LinkedIn: https://www.linkedin.com/in/navanet-p-a36591288
 - Email: [navanet88@gmail.com](mailto:youremail@example.com)
-
-
+- Facebook:https://www.facebook.com/profile.php?id=61561475756912 <br>
+  
 
 
 <h3 align="left">Languages and Tools:</h3>
