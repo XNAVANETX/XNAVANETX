@@ -5,8 +5,7 @@
 
 [ My_Portfolio:](https://magenta-cat-4d1.notion.site/NAVANET-SOFTWARE-DEVELOPER-d030c304f19847b78426ae6573ca68a9)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/Navanet_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithparshu" height="30" width="40" /></a>
