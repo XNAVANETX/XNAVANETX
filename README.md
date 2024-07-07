@@ -1,7 +1,16 @@
 
 # Hi there, I'm Navanet! 👨🏼‍💻
+<img align="right" src="https://cdn-galgk.nitrocdn.com/eWYpNSqDToNXmwTaRFsxxdJHggjXnETi/assets/static/optimized/wp-content/uploads/2022/05/5619588bdbcb4482ff928274fb80f0a2.programmer-animation.gif" alt="animated developer"  width="400" />
+
+
 [ My_Portfolio:](https://magenta-cat-4d1.notion.site/NAVANET-SOFTWARE-DEVELOPER-d030c304f19847b78426ae6573ca68a9)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="[https://twitter.com/codewithparshu](https://x.com/Navanet_04)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithparshu" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/parshuram-bagade](https://www.linkedin.com/in/navanet/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parshuram-bagade" height="30" width="40" /></a>
+</p>
+<h3 align="left">About me:</h3>
 I'm a passionate and dedicated Web developer with a strong background in both front-end and back-end technologies. I have a knack for design and a talent for solving problems, aiming to deliver smooth and captivating user experiences.
 
 ## 🍏 Skill Set
