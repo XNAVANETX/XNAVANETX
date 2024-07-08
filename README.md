@@ -1,11 +1,16 @@
 
-# Hi there, I'm Navanet! 👨🏼‍💻
+### Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Navanet! 👨🏼‍💻
+[ My_Portfolio:](https://magenta-cat-4d1.notion.site/NAVANET-SOFTWARE-DEVELOPER-d030c304f19847b78426ae6573ca68a9)
 
+```javascript
+
+"Hello,World_NAVANET\n"
+```
 
 <img align="right" src="https://media.tenor.com/bQCwwu0yF90AAAAi/developer-workstation.gif" alt="animated developer"  width="400" />
 
 
-[ My_Portfolio:](https://magenta-cat-4d1.notion.site/NAVANET-SOFTWARE-DEVELOPER-d030c304f19847b78426ae6573ca68a9)
+
 
 
 <h3 align="left">Connect with me:</h3>
