@@ -10,7 +10,7 @@
 <img align="right" src="https://media.tenor.com/bQCwwu0yF90AAAAi/developer-workstation.gif" alt="animated developer"  width="400" />
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=15&duration=2500&pause=1300&color=1287A8&center=true&vCenter=true&width=450&lines=+Good+at+Web+Development;Passionate+about+Software+and+Web+development;Loves+to+read+books+and+listen+to+music;Embracing+the+open+source+community" alt="Typing SVG"/>
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -21,7 +21,7 @@
 </p>
 <h3 align="left">About me:</h3>
 I'm a passionate and dedicated Web developer with a strong background in both front-end and back-end technologies. I have a knack for design and a talent for solving problems, aiming to deliver smooth and captivating user experiences.
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=15&duration=2500&pause=1300&color=1287A8&center=true&vCenter=true&width=450&lines=+Good+at+Web+Development;Passionate+about+Software+and+Web+development;Loves+to+read+books+and+listen+to+music;Embracing+the+open+source+community" alt="Typing SVG"/>
 ## 🍏 Skill Set
 
 - **Front-End Development:** HTML, CSS, JavaScript, React, Angular
