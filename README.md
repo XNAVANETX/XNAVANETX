@@ -10,7 +10,7 @@
 <img align="right" src="https://media.tenor.com/bQCwwu0yF90AAAAi/developer-workstation.gif" alt="animated developer"  width="400" />
 
 
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=15&duration=2500&pause=1300&color=1287A8&center=true&vCenter=true&width=450&lines=+Good+at+Web+Development;Passionate+about+Software+and+Web+development;Loves+to+read+books+and+listen+to+music;Embracing+the+open+source+community" alt="Typing SVG"/>
 
 
 <h3 align="left">Connect with me:</h3>
