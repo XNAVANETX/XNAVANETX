@@ -1,6 +1,6 @@
 
 ### Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Navanet! 👨🏼‍💻
-[ My_Portfolio:](https://magenta-cat-4d1.notion.site/NAVANET-SOFTWARE-DEVELOPER-d030c304f19847b78426ae6573ca68a9)
+[ My Portfolio!](https://navanet.netlify.app/)
 
 ```javascript
 
