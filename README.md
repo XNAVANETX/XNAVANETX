@@ -1,5 +1,7 @@
 
 # Hi there, I'm Navanet! 👨🏼‍💻
+
+
 <img align="right" src="https://media.tenor.com/bQCwwu0yF90AAAAi/developer-workstation.gif" alt="animated developer"  width="400" />
 
 
