@@ -1,5 +1,5 @@
 
-### Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Navanet! 👨🏼‍💻
+### Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Navanet! 👨🏼‍💻 
 [ My Portfolio!](https://navanetweb.netlify.app/)
 
 ```javascript
